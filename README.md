@@ -14,7 +14,7 @@ code .
 To install this helper:
 
 ```
-git clone git@github.com:EccentricInnovators/GitProject
+git clone https://github.com/EccentricInnovators/GitProject
 cd GitProject
 python install.py
 ```
