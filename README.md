@@ -6,7 +6,7 @@ This project is a helper to automate the following process:
 mkdir Repo
 cd Repo
 git init
-Create remote repo on GitHub
+//Create remote repo on GitHub
 git remote add origin git@github.com:<username>/Repo
 code .
 ```
