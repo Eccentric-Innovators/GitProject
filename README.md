@@ -8,7 +8,6 @@ cd Repo
 git init
 //Create remote repo on GitHub
 git remote add origin git@github.com:<username>/"GitHub Repo name (GitRepo)"
-code .
 ```
 
 To install this helper:
